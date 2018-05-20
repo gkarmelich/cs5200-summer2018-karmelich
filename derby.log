@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Sun May 20 08:59:59 EDT 2018:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0163-7da2-9d0d-000000211d70 
-on database directory memory:/home/gkarmelich/Documents/workspace-sts-3.9.4.RELEASE/cs5200-summer2018-karmelich/testdb with class loader sun.misc.Launcher$AppClassLoader@139a55 
+Sun May 20 09:45:35 EDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0163-7dcc-5e09-0000005c4f40 
+on database directory memory:/home/gkarmelich/Documents/workspace-sts-3.9.4.RELEASE/cs5200-summer2018-karmelich/testdb with class loader sun.misc.Launcher$AppClassLoader@1c7c054 
 Loaded from file:/home/gkarmelich/.m2/repository/org/apache/derby/derby/10.14.1.0/derby-10.14.1.0.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_171-b11
